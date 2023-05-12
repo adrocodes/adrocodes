@@ -10,6 +10,8 @@ Welcome to the world of [adro.codes](https://adro.codes/)!
 
 Most of my time at work is spent on Jamstack style projects. I've gathered together different ways of working and wrote a article on what I am called [Module Driven Development](https://papers.adro.codes/module-driven-development). If you're looking for a way to improve productivity & maintainability in your projects, give it a read. I only focus on folder structure, no new coding paradigms needed to improve your codebase, pretty neat! Continue the [discussion](https://github.com/adrocodes/adrocodes/discussions/1) with me and other developers!
 
+Check out [Pigeon](https://github.com/adrocodes/pigeon) if you're looking for a way to build data safe Jamstack projects quickly. I also have a [Demo](https://pigeon-demo.vercel.app/).
+
 ---
 
 <p align="center"> 
